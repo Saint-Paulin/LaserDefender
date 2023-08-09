@@ -1,4 +1,4 @@
-# ProjectBoost
+# LaserDefender
 LaserDefender game from gamedev.tv
 
 ## Controls
