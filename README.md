@@ -8,3 +8,5 @@ LaserDefender game from gamedev.tv
 |A | Left|
 |D | Right|
 
+## Credits
+Assets from https://www.kenney.nl/
